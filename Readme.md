@@ -4,7 +4,7 @@ October 31, 2017
 
 https://github.com/BarryHoward/class-hw
 
-[deployed on surge](tiy-barryhoward-class-hw.surge.sh)
+[deployed on surge](https://tiy-barryhoward-class-hw.surge.sh)
 
 
 Files:
